@@ -54,7 +54,7 @@ Arguments overview:
 
 * -d, --debug
 
-    Set to enable addition debugging information.
+    Set to enable additional debugging information.
 
 # Implementation
 
