@@ -52,6 +52,10 @@ Arguments overview:
     The former is useful when an external backup program handles backup rotation.
     Set the argument to "false" if there should be no timestamp in the filename.
 
+* -d, --debug
+
+    Set to enable addition debugging information.
+
 # Implementation
 
 The script generates an authorization cookie using your Atlassian credentials if
