@@ -13,7 +13,7 @@ else
     exit 1
 fi
 
-while [[ $# -gt 1 ]]
+while [[ $# -ge 1 ]]
 do
     key="$1"
 
